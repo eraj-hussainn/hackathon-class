@@ -3,7 +3,7 @@
     overflow-x: hidden;
 }
 
-.contactBtn {
+.contact {
     width: 140;
     height: 40;
     opacity: 1;
@@ -20,7 +20,7 @@
     color: white;
 }
 
-.StartedBtn {
+.Started {
     width: 200;
     height: 50;
     angle: 0 deg;
@@ -45,11 +45,11 @@
         display: flex;
         align-items: center;
     }
-    .myPara{
+    .Paragraph{
         width: 300px;
         text-align: center;
     }
-    .StartedBtn{
+    .Started{
         margin-left: 60px;
         margin-bottom: 50px;
     }
