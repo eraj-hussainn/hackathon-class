@@ -24,9 +24,39 @@ display: flex;
 height: 600px;
 }
 
-@media (max-width: 576px) { 
-    .row{
+@media (max-width: 576px) 
+    {
+        .row{
         flex-direction: column;
         display: flex;
         align-items: center;
     }
+    }
+
+    @media (max-width: 697px) {
+        .logo{
+            align-items: center;
+       
+        }
+        .row h1{
+            text-align: center;
+        }
+        .row p{
+            text-align: center;
+        }
+
+        .row 
+    }
+
+     @media (max-width: 766px) {
+ .row h1{
+            text-align: center;
+        }
+        .row p{
+            text-align: center;
+        }
+.btn{
+    margin-bottom: 15px;
+}
+     }
+    
