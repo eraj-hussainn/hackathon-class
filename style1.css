@@ -1,0 +1,25 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+  
+
+}
+.page-1{
+    overflow-x: hidden;
+}
+.page-1 .btn{
+    
+    background: linear-gradient(90deg, #63e6e8, #78bfcc);
+    color: #000;
+    border: none;
+    padding: 12px 35px;
+    border-radius: 30px;
+    font-size: 14px;
+    cursor: pointer;
+
+}
+.image-col{
+display: flex;
+height: 600px;
+}
